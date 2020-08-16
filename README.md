@@ -1,0 +1,2 @@
+# gthotel.cf
+retro hotel
