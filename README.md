@@ -1,2 +1,2 @@
-# gthotel.cf
+# gthotels.cf
 retro hotel
